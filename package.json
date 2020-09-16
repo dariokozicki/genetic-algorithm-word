@@ -1,0 +1,12 @@
+{
+  "name": "shakespeare-genetic-algorithm",
+  "version": "1.0.0",
+  "description": "Genetic algorithm for 'to be or not to be'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dario Kozicki",
+  "license": "ISC",
+  "type": "module"
+}
